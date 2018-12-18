@@ -2,6 +2,7 @@
 
 <h2><i>Fully automatic windows.</i></h2>
 
+Works with NODEMCU.
 <h3>Features:</h3>
   * Manually open and close windows.
   * Turn glass opaque and transparent.
