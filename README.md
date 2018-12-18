@@ -15,6 +15,7 @@
 2) We used servo motor.
 3)We used NodeMCU.
 
+<a href="https://imgur.com/nS7Cl6u"><img src="https://i.imgur.com/nS7Cl6u.jpg" title="source: imgur.com" /></a>
 
 <h2>For  more details on project :</h2>
 
